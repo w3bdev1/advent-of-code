@@ -1,7 +1,7 @@
-# Advent of Code
+# AOC
 
-My attempt in different languages
+My Attempt at Advent of Code 2023 (yeah very late)
 
-Solutions are in branches
-* 2023: Rust
-* 2024: let's see
+Why? To test my Rust skill.
+
+
